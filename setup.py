@@ -18,7 +18,7 @@ requirements = [
     "csvkit==1.0.2",
     "slackclient==1.0.4",
     "six==1.11.0",
-    "paramiko==2.6.0",
+    "paramiko==2.7.1",
     "pytz==2017.2"
 ]
 
